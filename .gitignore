@@ -1,0 +1,10 @@
+*.pyc
+*.pdf
+*.zip
+*.tgz
+*.iml
+*.txt
+**/cacm/
+**/cisi/
+**/libs/
+**/easyCLEF08/

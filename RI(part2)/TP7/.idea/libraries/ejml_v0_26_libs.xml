@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="ejml-v0.26-libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ejml-v0.26-libs/EJML-experimental-0.26-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ejml-v0.26-libs/EJML-core-0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ejml-v0.26-libs/EJML-equation-0.26-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ejml-v0.26-libs/EJML-equation-0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ejml-v0.26-libs/EJML-core-0.26-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ejml-v0.26-libs/EJML-experimental-0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

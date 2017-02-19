@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TP7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs.zip!/" />
+      <root url="jar://$PROJECT_DIR$/RI_2016.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sbow.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
