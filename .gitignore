@@ -1,10 +1,17 @@
 *.pyc
 *.pdf
 *.zip
+*.jar
+*.iml
 *.tgz
 *.iml
 *.txt
+*.tgz
 **/cacm/
 **/cisi/
 **/libs/
+**/Autres/
 **/easyCLEF08/
+**/sbow/
+**/out/
+**/Annales/
